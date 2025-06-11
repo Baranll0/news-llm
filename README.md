@@ -3,8 +3,8 @@
 ## Proje Özeti
 Bu proje, yapay zeka teknolojilerini kullanarak haber içeriklerini otomatik olarak kategorize eden, özetleyen ve yöneten bir web uygulamasıdır.
 
-![1.png](../INUFEST/1.png)
-![2.png](../INUFEST/2.png)
+![1.png](INUFEST/1.png)
+![2.png](INUFEST/2.png)
 
 
 ## Yapay Zeka Modelleri ve Performans Metrikleri
